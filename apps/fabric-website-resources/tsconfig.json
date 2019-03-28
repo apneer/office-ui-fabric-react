@@ -21,7 +21,8 @@
     ],
     "types": [
       "jest",
-      "webpack-env"
+      "webpack-env",
+      "puppeteer",
     ]
   },
   "include": [
